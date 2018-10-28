@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.App div {
+  height: calc(100vh - 100px);
+}
